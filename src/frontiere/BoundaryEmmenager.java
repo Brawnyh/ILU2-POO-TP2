@@ -57,6 +57,6 @@ public class BoundaryEmmenager {
 	}
 
 	private void emmenagerDruide(String nomVisiteur) {
-		//TODO a completer
+		 System.out.println("Bienvenue parmi nous, druide " + nomVisiteur + " !");
 	}
 }
